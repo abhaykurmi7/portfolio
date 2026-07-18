@@ -33,7 +33,7 @@ body {
 
 @font-face {
   font-family: "Cheese Milky";
-  src: url("CheeseMilky.otf") format("opentype");
+  src: url("./CheeseMilky.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
